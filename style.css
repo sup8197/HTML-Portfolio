@@ -1,0 +1,49 @@
+.topContainer {
+  background-color: #cae8ff;
+  margin-top: 0%;
+}
+.image {
+  display: block;
+  opacity: 0.5;
+}
+.first-bule-image {
+  margin-left: 70%;
+}
+.second-image{
+  margin-top: 10%;
+  margin-left: 10%;
+}
+.heading {
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-weight: 700;
+  text-align: center;
+  font-size: 80px;
+  color: rgb(102, 191, 191);
+}
+
+.parent {
+  display: flex;
+  height: 300px; /* Or whatever */
+  background-color: #cae8ff;
+}
+
+.child {
+  width: 400px;  /* Or whatever */
+  height: 300px; /* Or whatever */
+  margin: auto;  /* Magic! */
+  mix-blend-mode: multiply;
+}
+
+.image-supriya {
+  border-radius: 100rem;
+}
+.next-heading {
+  color: rgb(102, 191, 191);
+}
+.about-heading {
+  color: rgb(102, 191, 191);
+  text-align: center;
+}
+.footer {
+  background-color: rgb(102, 191, 191);
+}
